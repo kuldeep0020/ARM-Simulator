@@ -4,7 +4,7 @@ ________________________________________________________________________________
 _____________________________________________________________________________________________
 _____________________________________________________________________________________________
 
-This Simulator is designed to simulate instructions which are written for ARM V8 machines. It uses 16 
+This Simulator is designed to simulate instructions which are written for ARM V7 machines. It uses 16 
 register files each of 32-bits and a memory of 4000-bytes. In this simulator we can simulate simple ARM
 instructions and see the changes in values of registers and memory. This simulator is written in C++ 
 language and just a working model of how ARM assembly level instructions behaves and does not shows any 
@@ -71,7 +71,7 @@ After typing above command one executable file will be generated. Now run that c
 _________________________________________________________________________________________________________
  
 Acknowledgement: I want to thanks Dr. Preeti Ranjan Panda (IIT Delhi) for teaching me about the 
-    ARM V8 machine structure and the assembly level language which works on most of 
+    ARM V7 machine structure and the assembly level language which works on most of 
     the machines. He supported me on all stages. 
 
 Submitted By-
